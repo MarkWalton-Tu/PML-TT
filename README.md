@@ -1,4 +1,4 @@
-```markdown
+
 # PML-TT
 
 [![Knowledge-Based Systems](https://img.shields.io/badge/Published%20in-Knowledge--Based%20Systems-276:110743-blue?style=flat-square)](https://doi.org/10.1016/j.knosys.2023.110743)
@@ -27,7 +27,7 @@ If you use this code or find our work helpful in your research, please cite our 
 }
 ```
 
----
+
 
 ## 📧 Contact
 
