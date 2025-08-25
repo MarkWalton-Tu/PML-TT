@@ -1,7 +1,7 @@
 
 # PML-TT
 
-[![Knowledge-Based Systems](https://img.shields.io/badge/Published%20in-Knowledge--Based%20Systems-276:110743-blue?style=flat-square)](https://doi.org/10.1016/j.knosys.2023.110743)
+[![Knowledge-Based Systems](https://img.shields.io/badge/Knowledge-based%20Systems)](https://doi.org/10.1016/j.knosys.2023.110743)
 
 This repository contains the official implementation of the paper:
 
